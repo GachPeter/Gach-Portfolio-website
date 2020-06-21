@@ -1,3 +1,13 @@
+.red{
+    color:rgba(100,0,0,150)
+
+}
+.blue{
+    color:rgba(0,0,100,150)
+}
+.red-color{
+    color:red;
+    }
 .purple-color{
        color:#8845f4;
        }
